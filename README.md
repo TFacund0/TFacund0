@@ -68,18 +68,10 @@ Además, continúo fortaleciendo mis conocimientos de inglés, estudiando en el 
 
 ## Objetivos
 
-Mi meta a corto plazo es conseguir mi primera experiencia profesional como desarrollador Backend, mientras sigo profundizando en Arquitectura de Software y construyendo aplicaciones mantenibles y escalables. A largo plazo, busco desarrollar productos SaaS que resuelvan problemas reales, entendiendo el desarrollo de software como algo que va más allá de escribir código: cada proyecto es una oportunidad para aprender y crecer como profesional.
-
----
-
-## Estadísticas
-
-![Tobías's GitHub stats](https://github-readme-stats.vercel.app/api?username=TFacund0&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TFacund0&layout=compact)
+Mi meta a corto plazo es conseguir mi primera experiencia profesional como desarrollador Backend, mientras sigo profundizando en Arquitectura de Software y construyendo aplicaciones mantenibles y escalables. A largo plazo, busco desarrollar distintos productos que resuelvan problemas reales, tales como un SaaS, entendiendo el desarrollo de software como algo que va más allá de escribir código: cada proyecto es una oportunidad para aprender y crecer como profesional.
 
 ---
 
 ## Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tobiascesarfacundoacevedo@gmail.com)
