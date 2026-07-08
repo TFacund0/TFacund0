@@ -41,11 +41,10 @@ Actualmente estoy profundizando en tecnologías del ecosistema **.NET**, mientra
 
 ## Proyectos
 
-**Sistema Hospitalario** — Proyecto universitario (Ingeniería de Software II) con arquitectura por capas, JWT Authentication, procedimientos almacenados y documentación IEEE completa.
-[Ver repositorio →](#)
+**Sistema Hospitalario** — Proyecto universitario (Ingeniería de Software II) desarrollado en dos versiones: una de escritorio con arquitectura N-Layer, Entity Framework, SQL Server y JWT Authentication ([repositorio](https://github.com/TFacund0/Sistema-Hospitalario)); y **Clinicks-Web**, su versión web con .NET 8, React, PostgreSQL y Tailwind CSS, con documentación técnica más completa del proceso de diseño e implementación ([repositorio](https://github.com/TFacund0/Clinicks-Web)).
 
-**E-commerce** — Plataforma con gestión de usuarios, autenticación, integración con servicios externos y arquitectura MVC.
-[Ver repositorio →](#)
+**Proyecto CVA Muebles (E-commerce)** — Plataforma web híbrida (E-commerce/Showroom) para taller de carpintería, desarrollada en PHP con CodeIgniter 4, arquitectura de servicios y seguridad OWASP.
+[Ver repositorio →](https://github.com/TFacund0/Proyecto-CVA-Muebles)
 
 **Plataforma SaaS de Gestión de Reservas Deportivas** *(en desarrollo)* — Proyecto personal con Clean Architecture, arquitectura Multi-Tenant, roles y permisos, ASP.NET Core + Next.js + PostgreSQL.
 [Ver repositorio →](#)
@@ -73,7 +72,14 @@ Mi meta a corto plazo es conseguir mi primera experiencia profesional como desar
 
 ---
 
+## Estadísticas
+
+![Tobías's GitHub stats](https://github-readme-stats.vercel.app/api?username=TFacund0&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TFacund0&layout=compact)
+
+---
+
 ## Contacto
 
-LinkedIn: [enlace](#)
-Email: [enlace](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tobiascesarfacundoacevedo@gmail.com)
