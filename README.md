@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Tobías
+# ¡Hola! Soy Tobías
 
 Soy estudiante de Ingeniería en Software de Argentina y actualmente estoy enfocado en convertirme en desarrollador Backend.
 
