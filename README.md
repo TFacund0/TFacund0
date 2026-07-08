@@ -10,10 +10,11 @@ Actualmente estoy profundizando en tecnologías del ecosistema **.NET**, mientra
 
 ## Tecnologías
 
-![Skills](https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,ts,js,postgres,mysql,docker,git,github,vscode)
+![Skills](https://skillicons.dev/icons?i=cs,dotnet,java,react,nextjs,ts,js,php,postgres,mysql,docker,git,github,postman,visualstudio,vscode)
 
 ### Backend
 - C#
+- Java
 - ASP.NET Core
 - Entity Framework Core
 - REST APIs
@@ -33,7 +34,7 @@ Actualmente estoy profundizando en tecnologías del ecosistema **.NET**, mientra
 - Git
 - GitHub
 - Docker *(actualmente aprendiendo)*
-- Postman
+- Postman *(actualmente aprendiendo)*
 - Visual Studio
 - Visual Studio Code
 
@@ -68,7 +69,7 @@ Además, continúo fortaleciendo mis conocimientos de inglés, estudiando en el 
 
 ## Objetivos
 
-Mi meta a corto plazo es conseguir mi primera experiencia profesional como desarrollador Backend, mientras sigo profundizando en Arquitectura de Software y construyendo aplicaciones mantenibles y escalables. A largo plazo, busco desarrollar distintos productos que resuelvan problemas reales, tales como un SaaS, entendiendo el desarrollo de software como algo que va más allá de escribir código: cada proyecto es una oportunidad para aprender y crecer como profesional.
+Mi meta a corto plazo es conseguir mi primera experiencia profesional como desarrollador Backend, mientras sigo profundizando en Arquitectura de Software y construyendo aplicaciones mantenibles y escalables. A largo plazo, busco desarrollar productos SaaS que resuelvan problemas reales, entendiendo el desarrollo de software como algo que va más allá de escribir código: cada proyecto es una oportunidad para aprender y crecer como profesional.
 
 ---
 
