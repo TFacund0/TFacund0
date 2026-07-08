@@ -47,9 +47,6 @@ Actualmente estoy profundizando en tecnologías del ecosistema **.NET**, mientra
 **Proyecto CVA Muebles (E-commerce)** — Plataforma web híbrida (E-commerce/Showroom) para taller de carpintería, desarrollada en PHP con CodeIgniter 4, arquitectura de servicios y seguridad OWASP.
 [Ver repositorio →](https://github.com/TFacund0/Proyecto-CVA-Muebles)
 
-**Plataforma SaaS de Gestión de Reservas Deportivas** *(en desarrollo)* — Proyecto personal con Clean Architecture, arquitectura Multi-Tenant, roles y permisos, ASP.NET Core + Next.js + PostgreSQL.
-[Ver repositorio →](#)
-
 *Cada repositorio incluye su propio README con el detalle técnico completo: decisiones de arquitectura, instalación y stack utilizado.*
 
 ---
