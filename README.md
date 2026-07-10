@@ -67,15 +67,13 @@ Mi stack principal es **C#/.NET**. También trabajé con Java, Docker, PHP y Nex
 - Cloud Computing
 - Arquitectura de Software
 
-Ya apliqué testing unitario en mis proyectos (xUnit/MSTest), y este trimestre estoy profundizando en CI/CD para cerrar ese flujo de punta a punta.
-
 Además, continúo fortaleciendo mis conocimientos de inglés, estudiando en el Centro de Idiomas de la UNNE con el objetivo de alcanzar un nivel profesional orientado al desarrollo de software.
 
 ---
 
 ## Objetivos
 
-Mi meta a corto plazo es conseguir mi primera experiencia profesional como desarrollador Backend, mientras sigo profundizando en Arquitectura de Software y construyendo aplicaciones mantenibles y escalables. A largo plazo, busco desarrollar productos SaaS que resuelvan problemas reales, entendiendo el desarrollo de software como algo que va más allá de escribir código: cada proyecto es una oportunidad para aprender y crecer como profesional.
+Mi meta a corto plazo es conseguir mi primera experiencia profesional como desarrollador Backend, mientras sigo profundizando en Arquitectura de Software y construyendo aplicaciones mantenibles y escalables. A largo plazo, busco desarrollar productos SaaS que resuelvan problemas reales para seguir ganando experiencia y conocimiento, entendiendo el desarrollo de software como algo que va más allá de escribir código: cada proyecto es una oportunidad para aprender y crecer como profesional.
 
 ---
 
