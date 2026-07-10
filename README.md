@@ -2,9 +2,7 @@
 
 Soy **Analista en Sistemas** y actualmente estoy cursando el último tramo de la **Licenciatura en Sistemas** en FaCENA (UNNE).
 
-Mi principal interés es el desarrollo Backend y la construcción de aplicaciones mantenibles, escalables y pensadas para resolver problemas reales. Me interesa no solo que una aplicación funcione, sino comprender por qué está construida de determinada manera y cómo hacer que pueda mantenerse y evolucionar con el tiempo.
-
-Mi stack principal es **C#/.NET**. También trabajé con Java, Docker, PHP y Next.js en distintos proyectos —en algunos casos apoyándome en IA donde todavía no tengo un dominio completo— mientras sigo profundizando en arquitectura de software, testing, CI/CD y desarrollo de productos SaaS.
+Mi principal interés es el desarrollo Backend y la construcción de aplicaciones mantenibles, escalables y pensadas para resolver problemas reales. No me alcanza con que una aplicación funcione: quiero entender por qué está construida de determinada manera y qué la hace sostenible en el tiempo.
 
 ---
 
